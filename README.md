@@ -26,14 +26,14 @@ java DrawingProgram
  ![This is an image](./images/Friendline-video.gif)
 - Draw a Polygon:
   For the Draw Polygon, click on the draw Polygon button, Click on the different point on the panel,and right click to end the process and the right click completes the polygon
-  ![This is an image](./DrawingProgram-/images/Drawpolygon-video2.gif)
-  ![This is an image](./DrawingProgram-/images/Drawpolygon-ScreenShot1.png)
+![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/DrawPolygon-video.gif)
+![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/DrawPolygon-ScreenShot1.png)
 - Move:
    For the Move feature, Click on the Move button, and a black dot would show on all the items and if you click on any of the dot an move the components like line or label to another position.
-   ![This is an image](./DrawingProgram-/images/Move-video.gif)
+   ![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/Move-video.gif)
    ### Before Move Operation
-   ![This is an image](./DrawingProgram-/images/Move-ScreenShot2.png)
+   ![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/Move-ScreenShot2.png)
    ### After Move Operation 
-   ![This is an image](./DrawingProgram-/images/Move-ScreenShot1.png)
+   ![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/Move-ScreenShot1.png)
 
 
