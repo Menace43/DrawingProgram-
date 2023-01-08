@@ -23,10 +23,10 @@ java DrawingProgram
   Some example of the feature implemented in this project
 - Friendlyline:
  For the Friendline, You click on the FriendLine button and draw a line from any point
- ![This is an image](./images/Friendline-video.gif)
+![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/Friendline-video.gif)
 - Draw a Polygon:
   For the Draw Polygon, click on the draw Polygon button, Click on the different point on the panel,and right click to end the process and the right click completes the polygon
-![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/DrawPolygon-video.gif)
+![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/DrawPolygon-video2.gif)
 ![This is an image](https://github.com/Menace43/DrawingProgram-/blob/main/Images/DrawPolygon-ScreenShot1.png)
 - Move:
    For the Move feature, Click on the Move button, and a black dot would show on all the items and if you click on any of the dot an move the components like line or label to another position.
